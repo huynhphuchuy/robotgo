@@ -62,7 +62,7 @@ import (
 	"syscall"
 	"os/exec"
 
-	"github.com/go-vgo/robotgo/clipboard"
+	"github.com/huynhphuchuy/robotgo/clipboard"
 	"github.com/robotn/gohook"
 	"github.com/shirou/gopsutil/process"
 	"github.com/vcaesar/imgo"
